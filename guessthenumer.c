@@ -14,7 +14,7 @@ int main()
           printf("Guess the number between 1 to 100\n");
           scanf("%d", &guess);
          
-          if (guess > number){
+          if (guess > number) {
               printf("Lower number please\n");
           } else if(guess < number) {
               printf("Higher number please\n");
