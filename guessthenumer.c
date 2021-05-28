@@ -1,4 +1,4 @@
-/* Program to guess the number */
+/* Program to guess a random number */
 
 #include<stdio.h>
 #include<stdlib.h>
