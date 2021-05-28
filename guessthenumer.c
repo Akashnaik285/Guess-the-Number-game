@@ -22,6 +22,6 @@ int main()
               printf("You guessed it in %d attempts\n " , noofguesses);
           }
           noofguesses++;
-      } while (guess!=number);
+      } while (guess != number);
       return 0;
 }
